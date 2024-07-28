@@ -546,3 +546,20 @@ span{
         margin: 2rem 0;
     }
 }
+
+.tec {
+    align-items: center;
+    font-size: 50px;
+    display: flex;
+    color: var(--main-color);
+    transition: 0.3s ease;
+    cursor: pointer;
+    align-items: flex-start;
+    margin-top: 20px;
+    
+}
+
+.tec-box{
+    margin-top: 20px;
+    
+}
